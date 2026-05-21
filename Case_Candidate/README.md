@@ -1,6 +1,6 @@
 # Кейс 1. Процесс отбора кандидата
 
-Кейс показывает моделирование бизнес-процесса отбора кандидата: от отклика до приглашения на стажировку или отказа.
+Кейс показывает моделирование бизнес-процесса отбора кандидата: от отклика до приглашения на стажировку и фиксирует основные точки принятия решений.
 
 ## Что сделано
 
@@ -22,8 +22,8 @@
 
 - `diagrams/bpmn_candidate.drawio`
 - `diagrams/bpmn candidate.png`
-- `diagrams/subprocess candidate resgistration.png
-- `diagrams/subprocess internship task.png
+- `diagrams/subprocess candidate registration.png`
+- `diagrams/subprocess internship task.png`
 - `docs/process_description.md`
 - `docs/business_rules.md`
 - `docs/open_questions.md`
